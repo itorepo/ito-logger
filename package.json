@@ -1,0 +1,27 @@
+{
+  "name": "ito-logger",
+  "version": "0.0.1",
+  "description": "The logging microservice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "TabSaver",
+    "log",
+    "logger",
+    "elastic",
+    "search",
+    "analytics"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itorepo/ito-logger.git"
+  },
+  "author": "Kostyantyn Didenko <kdidenko@ito-global.com>",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "typescript": "^2.6.2"
+  }
+}
